@@ -8,14 +8,12 @@ A Faenza icon theme, using icons from Faenza, Faenza Fresh and Mint-X themes. Th
 
 - Faenza Fresh icons were designed by Tobias Bernard <bertob93@gmail.com>
 
-## Roadmap
+
+## Changelog
 
 ## 1.4
 
 - Applications icons from Faenza, Faenza Fresh, and Mint-X
-
-
-## Changelog
 
 ### 1.3
 
