@@ -11,10 +11,10 @@ A Faenza icon theme, using icons from Faenza, Faenza Fresh and Mint-X themes. Th
 
 ## Changelog
 
-## 1.4
+### 1.4
 
 - Applications icons from Faenza, Faenza Fresh, and Mint-X
 
 ### 1.3
 
-Initial commit, containing only icons from Faenza 1.3
+- Initial commit, containing only icons from Faenza 1.3
