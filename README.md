@@ -8,6 +8,10 @@ A Faenza icon theme, using icons from Faenza, Faenza Fresh and Mint-X themes. Th
 
 - Faenza Fresh icons were designed by Tobias Bernard <bertob93@gmail.com>
 
+- [Mint-X-icons](https://github.com/linuxmint/mint-x-icons) is a project from the Linux Mint team.
+
+- [Faenza Sudo](http://invisioslice.deviantart.com/art/Faenza-Sudo-Apps-SVG-263094273) was created by invisioslice on deviantART
+
 
 ## Changelog
 
