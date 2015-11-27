@@ -1,0 +1,8 @@
+ln -s ../../apps/16/gnome-session-reboot.png "16/system-restart.png" &&
+ln -s ../../apps/22/gnome-session-reboot.png "22/system-restart.png" &&
+ln -s ../../apps/24/gnome-session-reboot.png "24/system-restart.png" &&
+ln -s ../../apps/32/gnome-session-reboot.png "32/system-restart.png" &&
+ln -s ../../apps/48/gnome-session-reboot.png "48/system-restart.png" &&
+ln -s ../../apps/64/gnome-session-reboot.png "64/system-restart.png" &&
+ln -s ../../apps/96/gnome-session-reboot.png "96/system-restart.png" &&
+ln -s ../../apps/scalable/gnome-session-reboot.svg "scalable/system-restart".svg
