@@ -1,0 +1,7 @@
+inkscape "scalable/system-file-manager.svg" -e "16/system-file-manager.png" -w 16 -h 16 && 
+inkscape "scalable/system-file-manager.svg" -e "22/system-file-manager.png" -w 22 -h 22 &&
+inkscape "scalable/system-file-manager.svg" -e "24/system-file-manager.png" -w 24 -h 24 &&
+inkscape "scalable/system-file-manager.svg" -e "32/system-file-manager.png" -w 32 -h 32 &&
+inkscape "scalable/system-file-manager.svg" -e "48/system-file-manager.png" -w 48 -h 48 &&
+inkscape "scalable/system-file-manager.svg" -e "64/system-file-manager.png" -w 64 -h 64 &&
+inkscape "scalable/system-file-manager.svg" -e "96/system-file-manager.png" -w 96 -h 96
