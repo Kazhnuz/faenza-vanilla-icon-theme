@@ -1,7 +1,7 @@
-inkscape "scalable/gimp.svg" -e "16/gimp.png" -w 16 -h 16 && 
-inkscape "scalable/gimp.svg" -e "22/gimp.png" -w 22 -h 22 &&
-inkscape "scalable/gimp.svg" -e "24/gimp.png" -w 24 -h 24 &&
-inkscape "scalable/gimp.svg" -e "32/gimp.png" -w 32 -h 32 &&
-inkscape "scalable/gimp.svg" -e "48/gimp.png" -w 48 -h 48 &&
-inkscape "scalable/gimp.svg" -e "64/gimp.png" -w 64 -h 64 &&
-inkscape "scalable/gimp.svg" -e "96/gimp.png" -w 96 -h 96
+inkscape "scalable/krita.svg" -e "16/krita.png" -w 16 -h 16 && 
+inkscape "scalable/krita.svg" -e "22/krita.png" -w 22 -h 22 &&
+inkscape "scalable/krita.svg" -e "24/krita.png" -w 24 -h 24 &&
+inkscape "scalable/krita.svg" -e "32/krita.png" -w 32 -h 32 &&
+inkscape "scalable/krita.svg" -e "48/krita.png" -w 48 -h 48 &&
+inkscape "scalable/krita.svg" -e "64/krita.png" -w 64 -h 64 &&
+inkscape "scalable/krita.svg" -e "96/krita.png" -w 96 -h 96
