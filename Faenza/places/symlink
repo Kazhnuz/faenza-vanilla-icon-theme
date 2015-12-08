@@ -1,0 +1,8 @@
+ln -s start-here.png "16/gnome-main-menu.png" &&
+ln -s start-here.png "22/gnome-main-menu.png" &&
+ln -s start-here.png "24/gnome-main-menu.png" &&
+ln -s start-here.png "32/gnome-main-menu.png" &&
+ln -s start-here.png "48/gnome-main-menu.png" &&
+ln -s start-here.png "64/gnome-main-menu.png" &&
+ln -s start-here.png "96/gnome-main-menu.png" &&
+ln -s start-here.svg "scalable/gnome-main-menu".svg
