@@ -1,8 +1,0 @@
-rm "16/start-here.png" && ln -s start-here-agnostic.png "16/start-here.png" &&
-rm "22/start-here.png" && ln -s start-here-agnostic.png "22/start-here.png" &&
-rm "24/start-here.png" && ln -s start-here-agnostic.png "24/start-here.png" &&
-rm "32/start-here.png" && ln -s start-here-agnostic.png "32/start-here.png" &&
-rm "48/start-here.png" && ln -s start-here-agnostic.png "48/start-here.png" &&
-rm "64/start-here.png" && ln -s start-here-agnostic.png "64/start-here.png" &&
-rm "96/start-here.png" && ln -s start-here-agnostic.png "96/start-here.png" &&
-rm "scalable/start-here.svg" && ln -s start-here-agnostic.svg "scalable/start-here".svg
