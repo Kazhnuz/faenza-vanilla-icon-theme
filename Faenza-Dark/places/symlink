@@ -1,0 +1,8 @@
+ln -s ../../actions/16/visualization.png "16/start-here-agnostic.png" &&
+ln -s ../../actions/22/visualization.png "22/start-here-agnostic.png" &&
+ln -s ../../actions/24/visualization.png "24/start-here-agnostic.png" &&
+ln -s ../../actions/32/visualization.png "32/start-here-agnostic.png" &&
+ln -s ../../actions/48/visualization.png "48/start-here-agnostic.png" &&
+ln -s ../../actions/64/visualization.png "64/start-here-agnostic.png" &&
+ln -s ../../actions/96/visualization.png "96/start-here-agnostic.png" &&
+ln -s ../../actions/scalable/visualization.svg "scalable/start-here-agnostic".svg
