@@ -422,6 +422,13 @@ Type=Scalable
 MinSize=8
 MaxSize=512
 
+[actions/symbolic]
+Size=16
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=512
+
 [places/symbolic]
 Size=16
 Context=Places
