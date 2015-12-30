@@ -429,7 +429,7 @@ Type=Scalable
 MinSize=8
 MaxSize=512
 
-[devices/scalable]
+[devices/symbolic]
 Size=16
 Context=Devices
 Type=Scalable
@@ -443,7 +443,7 @@ Type=Scalable
 MinSize=8
 MaxSize=512
 
-[status/scalable]
+[status/symbolic]
 Size=16
 Context=Status
 Type=Scalable
