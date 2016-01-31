@@ -12,7 +12,7 @@ If you like this project, please help us, by contributing or sending issues.
 - Faenza Fresh icons were designed by Tobias Bernard <bertob93@gmail.com>
 - [Mint-X-icons](https://github.com/linuxmint/mint-x-icons) is a project from the Linux Mint team.
 - [Faenza Sudo](http://invisioslice.deviantart.com/art/Faenza-Sudo-Apps-SVG-263094273) was created by invisioslice on deviantART
-- Some symbolic icons come from the Elementary icon theme
+- Some symbolic icons come from the Elementary icon theme and the Paper icon theme
 
 ## Changelog
 
