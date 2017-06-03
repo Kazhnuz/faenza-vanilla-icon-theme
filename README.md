@@ -16,6 +16,13 @@ If you like this project, please help us, by contributing or sending issues.
 
 ## Changelog
 
+### 1.4.1
+
+- Added support for the new reverse DNS naming scheme of several GNOME applications
+- Added a new icon for GNOME Maps, Tilix and GNOME Books
+- Support added for GNOME Games, GNOME Recipes.
+- Added support for the alternative icon name "calligrakrita" for Krita
+
 ### 1.4
 
 - Added applications icons from Faenza Fresh, Mint-X and Faenza-Sudo
