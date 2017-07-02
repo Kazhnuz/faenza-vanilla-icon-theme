@@ -1,8 +1,8 @@
-# Faenza-NewVanilla
+# Faenza-Vanilla
 
 A new vanilla Faenza icon-theme maintened, for users who want a classic vanilla Faenza experience, yet with new icons !
 
-Faenza was one of the slickest uniform icon theme for linux desktops. Sadly, it seems to be unmaintened since a few years, and the Mint-X icon heme use many non-vanilla icons, like their elementary-like icons folder. So, this project aim to maintain the Faenza icon theme, in a vanilla way, by adding new symlink, designing new icons...
+Faenza was one of the slickest uniform icon theme for linux desktops. Sadly, it seems to be unmaintened since a few years, and the Mint-X icon heme use many non-vanilla icons, like their elementary-like icons folder. So, this project aim to maintain the Faenza icon theme and make it work with new systems, in a vanilla way, by adding new symlink, designing new icons...
 
 If you like this project, please help us, by contributing or sending issues.
 
